@@ -7,7 +7,7 @@ import Navbar from "@/components/navbar"
 import Footer from "@/components/footer"
 
 export const metadata: Metadata = {
-  title: "Privacy Policy | Enterprise AI Platform",
+  title: "Privacy Policy | Enterprise Intelligence Platform",
   description: "Our commitment to protecting your privacy and securing your data.",
 }
 

@@ -26,11 +26,10 @@ export default function Home() {
             <div className="flex flex-col items-center text-center max-w-3xl mx-auto">
               <div className="inline-block rounded-lg bg-muted px-3 py-1 text-sm mb-6">Enterprise AI Solution</div>
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tighter mb-6">
-                Secure AI Conversations for Enterprise & Government
+                Trusted Conversational Agents for Enterprise & Government
               </h1>
               <p className="text-xl text-muted-foreground md:text-2xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed max-w-2xl mb-12">
-                Unlock the power of AI with enterprise-grade security, customizable agents, and comprehensive knowledge
-                management.
+                Empower your organization with AI built for enterprise security, tailored agents, and end-to-end knowledge management.    
               </p>
 
               <TypingPromptInput />
